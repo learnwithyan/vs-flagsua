@@ -1,0 +1,76 @@
+{
+  "name": "flagsua",
+  "displayName": "FlagsUA - support Ukraine status bar",
+  "description": "Now you can set the Ukraine flag + ANY text to status bar",
+  "version": "1.0.1",
+  "publisher": "learnwithyan",
+  "icon": "images/logo_128.png",
+  "tags": [
+    "ukraine",
+    "ua",
+    "support"
+  ],
+  "keywords": [
+    "ukraine",
+    "ua",
+    "support"
+  ],
+  "author": "learnwithyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/learnwithyan/vs-flagsua",
+    "email": "learnwithyan@hotmail.com"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "flagsua.showTranslReadme",
+        "title": "%flagsua.showTranslReadme.title%",
+        "icon": "$(source-control)"
+      }
+    ],
+    "configuration": {
+      "title": "Flags UA",
+      "properties": {
+        "flagsua.showMsg": {
+          "type": "string",
+          "default": "Support Ukraine",
+          "description": "Message to status Bar"
+        }
+      }
+    }
+  },
+  "localize": [
+    "package.nls.json",
+    "package.bg.nls.json",
+    "package.cs.nls.json",
+    "package.de.nls.json",
+    "package.es.nls.json",
+    "package.fr.nls.json",
+    "package.hu.nls.json",
+    "package.it.nls.json",
+    "package.ko.nls.json",
+    "package.pl.nls.json",
+    "package.pt.nls.json",
+    "package.ru.nls.json",
+    "package.tr.nls.json",
+    "package.zh.nls.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/learnwithyan/vs-flagsua.git"
+  },
+  "dependencies": {
+    "vscode-nls": "^5.2.0"
+  }
+}
