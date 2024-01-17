@@ -1,18 +1,20 @@
-# DeDupli
+# Flags UA
 
-Tartsa meg a különálló szövegsorokat, kiküszöbölve a duplikációkat az aktuális kijelölésből. Ezenkívül hajtson végre egy parancsot az éppen kiválasztott sorok sorrendjének véletlenszerűvé tételére.
-
-## Hogyan kell használni?
-
-Ez a bővítmény csak a kiválasztott szöveggel működik. Először ki kell jelölnie az összes szöveget. Másodszor nyomja meg az F1-et, és írja be a menübe a "Dedupli"-t. Harmadszor kiválaszthat egyet a szükséges parancsok közül.
-
-## Milyen parancsokat használhat?
-
-- DeDupli - távolítsa el az ismétlődéseket a kiválasztottból
-- DeDupli - sorok keverése a kiválasztottból
+Most beállíthatja az Ukrajna zászló + BÁRMELY szöveget az állapotsorba
 
 ##
 
 [![Vscode-kiterjesztés](/translations/demo.gif 'Vscode-kiterjesztés bemutató')](https://learnwithyan.com)
+
+## Hogyan kell használni?
+
+A vscode-beállítások segítségével módosíthatja a zászló közelében lévő szavakat. Tehát írjon be bármilyen szöveget, amelyet látni szeretne az állapotsoron
+
+## Hogyan változtassunk szöveget?
+
+- Nyomja meg a ctrl + vesszőt
+- Nyissa meg a bővítményeket
+- A megnyílt ablakban a keresőbe írja be a "Flags UA" kifejezést
+- Módosítsa a szöveget "Üzenet állapotsorra"
 
 #

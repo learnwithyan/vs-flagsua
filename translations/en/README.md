@@ -1,6 +1,6 @@
-# DeDupli
+# Flags UA
 
-Retain distinct lines of text, eliminating any duplicates from the current selection. Additionally, implement a command for randomizing the order of the presently selected lines.
+Now you can set the Ukraine flag + ANY text to status bar
 
 ##
 
@@ -8,11 +8,13 @@ Retain distinct lines of text, eliminating any duplicates from the current selec
 
 ## How to use?
 
-This extension works with selected text only. First you need to select all text. Second press F1 and in menu type "Dedupli". Third you can choose one of commands you need.
+You can change the words near flag using vscode settings. So type any text to see in your status bar
 
-## What commands you can use?
+## How to change text?
 
-- DeDupli - remove duplicates from selected
-- DeDupli - shuffle lines from selected
+- Press ctrl + comma
+- Open Extensions
+- In opened window search, type "Flags UA"
+- Change text to "Message to status Bar"
 
 #

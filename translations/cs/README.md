@@ -1,18 +1,20 @@
-# DeDupli
+# Flags UA
 
-Zachovat zřetelné řádky textu a vyloučit duplikáty z aktuálního výběru. Navíc implementujte příkaz pro náhodné uspořádání pořadí aktuálně vybraných řádků.
-
-## Jak používat?
-
-Toto rozšíření funguje pouze s vybraným textem. Nejprve musíte vybrat veškerý text. Poté stiskněte F1 a v nabídce napište "Dedupli". Za třetí si můžete vybrat jeden z příkazů, které potřebujete.
-
-## Jaké příkazy můžete použít?
-
-- DeDupli - odstranění duplikátů z vybraných
-- DeDupli - náhodné řádky z vybraných
+Nyní můžete nastavit vlajku Ukrajiny + JAKÝKOLI text na stavový řádek
 
 ##
 
 [![Rozšíření Vscode](/translations/demo.gif 'Ukázka rozšíření Vscode')](https://learnwithyan.com)
+
+## Jak používat?
+
+Slova poblíž vlajky můžete změnit pomocí nastavení vscode. Zadejte tedy libovolný text, který se zobrazí ve stavovém řádku
+
+## Jak změnit text?
+
+- Stiskněte ctrl + čárka
+- Otevřete rozšíření
+- V otevřeném okně hledání zadejte "Flags UA"
+- Změňte text na "Zpráva do stavového řádku"
 
 #

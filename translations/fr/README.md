@@ -1,18 +1,20 @@
-# DeDupli
+# Flags UA
 
-Conservez des lignes de texte distinctes, en eliminant tous les doublons de la selection actuelle. De plus, implementez une commande pour randomiser l’ordre des lignes actuellement selectionnees.
-
-## Comment utiliser?
-
-Cette extension fonctionne uniquement avec le texte selectionne. Vous devez d’abord selectionner tout le texte. Appuyez ensuite sur F1 et dans le menu, tapez "Dedupli". Troisièmement, vous pouvez choisir l'une des commandes dont vous avez besoin.
-
-## Quelles commandes pouvez-vous utiliser ?
-
-- DeDupli - supprime les doublons de la selection
-- DeDupli - melange les lignes selectionnees
+Vous pouvez maintenant definir le drapeau de l'Ukraine + TOUT texte dans la barre detat
 
 ##
 
 [![Extension Vscode](/translations/demo.gif 'Demo de lextension Vscode')](https://learnwithyan.com)
+
+## Comment utiliser?
+
+Vous pouvez modifier les mots à proximite du drapeau à l'aide des paramètres vscode. Alors tapez n'importe quel texte à voir dans votre barre detat
+
+## Comment changer le texte ?
+
+- Appuyez sur ctrl + virgule
+- Extensions ouvertes
+- Dans la fenêtre de recherche ouverte, tapez "Flags UA"
+- Remplacer le texte par "Message à la barre detat"
 
 #

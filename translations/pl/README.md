@@ -1,18 +1,20 @@
-# DeDupli
+# Flags UA
 
-Zachowaj wyraźne wiersze tekstu, eliminując wszelkie duplikaty z bieżącego zaznaczenia. Dodatkowo zaimplementuj polecenie losowania kolejności aktualnie wybranych linii.
-
-## Jak używać?
-
-To rozszerzenie działa tylko z wybranym tekstem. Najpierw musisz zaznaczyć cały tekst. Następnie naciśnij F1 i w menu wpisz „Dedupli”. Po trzecie, możesz wybrać jedno z potrzebnych poleceń.
-
-## Jakich poleceń możesz użyć?
-
-- DeDupli - usuń duplikaty z wybranych
-- DeDupli - losuj linie z wybranych
+Teraz możesz ustawić flagę Ukrainy + DOWOLNY tekst na pasku stanu
 
 ##
 
 [![Rozszerzenie Vscode](/translations/demo.gif 'Demo rozszerzenia Vscode')](https://learnwithyan.com)
+
+## Jak używać?
+
+Możesz zmienić słowa w pobliżu flagi, używając ustawień vscode. Wpisz więc dowolny tekst, który będzie widoczny na pasku stanu
+
+## Jak zmienić tekst?
+
+- Naciśnij Ctrl + przecinek
+- Otwórz rozszerzenia
+- W otwartym oknie wyszukiwania wpisz „Flagi UA”
+- Zmień tekst na „Wiadomość do paska stanu”
 
 #

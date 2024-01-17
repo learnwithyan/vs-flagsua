@@ -1,18 +1,20 @@
-#DeDupli
+# Flags UA
 
-Conserve líneas de texto distintas, eliminando cualquier duplicado de la selección actual. Además, implemente un comando para aleatorizar el orden de las líneas actualmente seleccionadas.
-
-## ¿Cómo utilizar?
-
-Esta extensión funciona solo con texto seleccionado. Primero necesitas seleccionar todo el texto. Segundo presione F1 y en el menú escriba "Dedupli". En tercer lugar, puede elegir uno de los comandos que necesita.
-
-## ¿Qué comandos puedes usar?
-
-- DeDupli: elimina duplicados de los seleccionados
-- DeDupli: mezcla líneas de las seleccionadas
+Ahora puedes configurar la bandera de Ucrania + CUALQUIER texto en la barra de estado
 
 ##
 
 [![Extensión Vscode](/translations/demo.gif 'Demostración de la extensión Vscode')](https://learnwithyan.com)
+
+## ¿Cómo utilizar?
+
+Puede cambiar las palabras cerca de la bandera usando la configuración de vscode. Así que escribe cualquier texto para verlo en tu barra de estado.
+
+## ¿Cómo cambiar el texto?
+
+- Presione Ctrl + coma
+- Extensiones abiertas
+- En la ventana de búsqueda abierta, escriba "Flags UA"
+- Cambiar texto a "Mensaje a la barra de estado"
 
 #

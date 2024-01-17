@@ -1,18 +1,20 @@
-# DeDupli
+# Flags UA
 
-Geçerli seçimdeki kopyaları ortadan kaldırarak farklı metin satırlarını koruyun. Ek olarak, seçili olan satırların sırasını rastgele hale getirmek için bir komut uygulayın.
-
-## Nasıl kullanılır?
-
-Bu uzantı yalnızca seçilen metinle çalışır. Öncelikle tüm metni seçmeniz gerekir. İkinci olarak F1 tuşuna basın ve menüye "Dedupli" yazın. Üçüncü olarak ihtiyacınız olan komutlardan birini seçebilirsiniz.
-
-## Hangi komutları kullanabilirsiniz?
-
-- DeDupli - seçilenlerden kopyaları kaldır
-- DeDupli - seçilen satırları karıştır
+Artık Ukrayna bayrağını + HERHANGİ bir metni durum çubuğuna ayarlayabilirsiniz
 
 ##
 
 [![Vscode uzantısı](/translations/demo.gif 'Vscode uzantısı demosu')](https://learnwithyan.com)
+
+## Nasıl kullanılır?
+
+Vscode ayarlarını kullanarak flag yakınındaki kelimeleri değiştirebilirsiniz. Durum çubuğunuzda görmek istediğiniz metni yazın
+
+## Metin nasıl değiştirilir?
+
+- ctrl + virgül tuşlarına basın
+- Uzantıları Aç
+- Açılan pencere aramasında "UA Bayrakları" yazın
+- Metni "Durum Çubuğuna mesaj" olarak değiştirin
 
 #
