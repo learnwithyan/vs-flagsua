@@ -2,21 +2,8 @@
 
 ### 1.0.0
 
-added 2 commands for Shuffle and Delete duplicates
+added UA flag as static emoji
 
-### 1.0.1
+### 1.1.0
 
-updated bar status Icons to show 3 options:
-
-- Total count of Distinct lines
-- Total count of Duplicate lines
-- Total count of Letters + Numbers lines
-
-### 2.0.1
-
-added 2 translations for commands
-
-- Bulgarian
-- Russian
-
-cleaned the code
+added emoji-flags to read by all versions

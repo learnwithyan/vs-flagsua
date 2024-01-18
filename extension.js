@@ -1,5 +1,6 @@
 var vscode = require('vscode');
 const fs = require('fs');
+const emoji = require('emoji-flags');
 const path = require('path');
 
 // get user language
@@ -120,7 +121,7 @@ function updateStatusBar() {
     updatedValue = 'Pray for Ukraine';
   }
 
-  myStatusBarItem.text = '🇺🇦 ' + updatedValue;
+  myStatusBarItem.text = emoji.countryCode('UA').emoji + updatedValue;
   myStatusBarItem.show();
 }
 
